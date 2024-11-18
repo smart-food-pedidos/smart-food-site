@@ -177,9 +177,13 @@ section.topo-do-site .flex{
     margin: 40px 0;
 }
 
+.topo-do-site .txt-topo-site ol{
+    margin: 40px;
+}
+
 .topo-do-site .txt-topo-site ol li{
     color: #fff;
-    margin: 30px 0;
+    margin: 15px 0;
     margin-left: 10px;
 }
 
